@@ -33,7 +33,7 @@
 
 # 使用方式
 
-1. 右上角 fork 本仓库
+1.  右上角 fork 本仓库
 2. 点击 Settings -> Secrets -> 点击绿色按钮 (如无绿色按钮说明已激活。直接到第三步。)
 3. 新增 new secret 并设置 Secrets:
 4. 双击右上角自己仓库 Star 触发，如有不使用项目请[禁用部分项目](https://cdn.jsdelivr.net/gh/BlueskyClouds/BlueskyClouds.github.io/2020/10/19/img/2020-10-19.jpg)
